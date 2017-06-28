@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+  , "repository": "https://github.com/eangelovSM/Hot-To-Npm.git"
+}
