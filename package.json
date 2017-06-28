@@ -6,6 +6,7 @@
   },
   "scripts": {
     "test": "node test.js"
-  }
-  , "repository": "https://github.com/eangelovSM/Hot-To-Npm.git"
+  },
+  "repository": "https://github.com/eangelovSM/Hot-To-Npm.git",
+  "license": "UNLICENSED"
 }
